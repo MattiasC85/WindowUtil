@@ -5,5 +5,5 @@ Hide and show windows, set them topmost, start a program maximized or run Powers
 
 Todo
 - [ ] Fix to find application windows
-- [ ] Add a "contains' switch
+- [ ] Add a "contains" switch
 - [ ] Maybe a display in session
