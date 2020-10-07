@@ -10,6 +10,8 @@ Version 2.2(Alpha)
 * Added "/handle"
 * Improved UWP/store apps compatibility.
 
+![alt text](https://raw.githubusercontent.com/MattiasC85/WindowUtil/master/WindowUtil.png)
+
 Version 1.0.1(RC)
 * Added support to exclude processes from the search.
 * Added "/Debug" to display more info.
